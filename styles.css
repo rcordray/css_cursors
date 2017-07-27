@@ -1,0 +1,7 @@
+a:hover {
+  cursor:crosshair;
+}
+
+a:active {
+  cursor:cell;
+}
